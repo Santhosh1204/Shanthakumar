@@ -6,4 +6,4 @@ Customer Assignment path: CoreJava->src->day5->Customer.java and CustomererTest.
 
 Phonenumber Assignment path: CoreJava->src->day5->PhoneNUm.java and PhoneNumTest.java
 
-Servelet and Jsp Employee Assignment path: valtechweb3->src
+Servlet and Jsp Employee Assignment path: valtechweb3->src
